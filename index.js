@@ -29,8 +29,8 @@ bot.loadPlugin(cmd)
 
 bot.on('login',function(){
     console.log("Logged In")
-    bot.chat('/register password123')
-    bot.chat("hello");
+    bot.chat('/login password123')
+    bot.chat("are are ban mt kro bot hu he rage ishu ki trf se hello");
 });
 
 bot.on('time', function(time) {
